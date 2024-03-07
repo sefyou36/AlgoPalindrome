@@ -12,9 +12,9 @@ int main(){
        n /= 10;
    }
    if (b == inverse)
-       printf("%d is a palindrome.\n", b);
+       printf("%d est un palindrome.\n", b);
    else
-       printf("%d is not a palindrome.\n", b);
+       printf("%d ,'est pas un palindrome.\n", b);
 
    return 0;
 }
