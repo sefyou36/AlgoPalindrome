@@ -65,7 +65,6 @@ int main() {
     printf("\n\nTotal HT: %.2f", totalHT);
     printf("\nTVA 20 % : %.2f", taxe);
     printf("\nTotal TTC: %.2f", totalTTC);
-    printf("\n");
 
     return 0;
 }
